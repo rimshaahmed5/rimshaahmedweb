@@ -1,0 +1,34 @@
+.navbar{
+    background-color: #37474F!important;
+}
+.nav-link{
+    color: white !important;
+    font-weight:100px!important;
+    font-size:20px;
+}
+.heading{
+    text-align: center;
+    color: black!important;
+    margin-top:80px;
+}
+.heading>h1{
+    text-shadow: 2px 2px 4px #546E7A;
+}
+.scrolltoTop{
+    background: rgba(0, 0, 0, 0.4);
+    bottom:2px;
+    height: 50px;
+    padding:7px;
+    position: fixed;
+    right:20px;
+    text-align:center;
+    text-decoration: none;
+    width: 50px;
+    z-index: 99999;
+}
+.fa-angle-up{
+    color: #fff;
+}
+.imag{
+    margin-top:100px;
+}

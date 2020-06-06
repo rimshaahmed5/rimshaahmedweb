@@ -1,0 +1,38 @@
+.navbar{
+    background-color: #37474F!important;
+}
+.nav-link{
+    color: white !important;
+    font-weight:100px!important;
+    font-size:20px;
+}
+form{
+    margin-left:50px;
+    margin-right:50px;
+    margin-top: 100px;
+}
+.heading>h4{
+    margin-bottom: 100px;
+    text-align: center;
+    color: black!important;
+    margin: 20px;
+    font-size:70px
+}
+.heading>h4{
+    text-shadow: 2px 2px 4px #546E7A;
+}
+.heading{
+    margin-bottom: 100px;
+    text-align: center;
+    color: black!important;
+    margin: 20px;
+}
+.btn-primary{
+    background-color: #BCAAA4!important;
+    width: 200px;
+    color: black!important;
+    font-weight: bold;
+}
+.btn-primary>a{
+    color: black;
+}

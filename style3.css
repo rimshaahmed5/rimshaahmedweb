@@ -1,0 +1,85 @@
+.navbar{
+    background-color: #37474F!important;
+}
+.nav-link{
+    color: white !important;
+    font-weight:100px!important;
+    font-size:20px;
+}
+.heading>h4{
+    margin-bottom: 100px;
+    text-align: center;
+    color: black!important;
+    margin: 20px;
+    font-size:70px;
+    margin-top: 50px;
+}
+.heading>h4{
+    text-shadow: 2px 2px 4px #546E7A;
+}
+.heading{
+    margin-bottom: 100px;
+    text-align: center;
+    color: black!important;
+    margin: 20px;
+}
+.main{
+    margin-top: 100px !important;
+}
+.main2{
+    margin-top: 100px;
+}
+.card1-body{
+    background-color: #BCAAA4 !important;
+}
+.card1-title{
+    color: black !important;
+    margin: 10px;
+    height: 50px;
+    padding-top:10px;
+}
+.footer{
+    width:100%;
+    height:200px;
+    background-color:#263238;
+    text-align: center;
+}
+.footer>.heading1{
+   color: white;
+    font-size:20px;
+    text-align:left;
+    margin-left:50px;
+    padding:20px;
+    margin-top:200px;
+}
+.footer>.heading1 a{
+    color: white;
+    padding:5px; 
+    padding-right:5px;
+}
+.footer1{
+    width:100%;
+    height:50px;
+    background: linear-gradient(to right, #808080 0%, #37474f 100%);
+    text-align:center;
+}
+.footer1>.heading1{
+    color: black;
+    padding:5px; 
+    padding-top:10px;
+}
+.scrolltoTop{
+    background: rgba(0, 0, 0, 0.4);
+    bottom:2px;
+    height: 50px;
+    padding:7px;
+    position: fixed;
+    right:20px;
+    text-align:center;
+    text-decoration: none;
+    width: 50px;
+    z-index: 99999;
+}
+.fa-angle-up{
+    color: #fff;
+}

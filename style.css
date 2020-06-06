@@ -1,0 +1,82 @@
+.navbar{
+    background-color: #37474F!important;
+}
+.nav-link{
+    color: white !important;
+    font-weight:100px!important;
+    font-size:20px;
+}
+.NewArrivals{
+    margin-top:50px;
+}
+.container1{
+    margin-top: 100px;
+}
+.card{
+    width: 250px;
+    height: auto !important;
+    margin-bottom: 5px;
+}
+.card-text{
+    font-weight:bold;
+    color: red!important;
+}
+.btn-primary{
+    background-color: #BCAAA4!important;
+    width: 200px;
+    color: black!important;
+    font-weight: bold;
+}
+.heading{
+    text-align:center;
+    color: black!important;
+    margin-top:80px;
+}
+.heading>h1{
+    text-shadow: 2px 2px 4px #546E7A;
+}
+.footer{
+    margin-top:100px;
+    width:100%;
+    height:200px;
+    background-color:#263238;
+    text-align: center;
+}
+.footer>.heading1{
+   color: white;
+    font-size:20px;
+    text-align:left;
+    margin-left:50px;
+    padding:20px;
+}
+.footer>.heading1 a{
+    color: white;
+    padding:5px; 
+    padding-right:5px;
+}
+.footer1{
+    width:100%;
+    height:50px;
+    background: linear-gradient(to right, #808080 0%, #37474f 100%);
+    text-align:center;
+}
+.footer1>.heading1{
+    color: black;
+    padding:5px; 
+    padding-top:10px;
+}
+.scrolltoTop{
+    background: rgba(0, 0, 0, 0.4);
+    bottom:2px;
+    height: 50px;
+    padding:7px;
+    position: fixed;
+    right:20px;
+    text-align:center;
+    text-decoration: none;
+    width: 50px;
+    z-index: 99999;
+}
+.fa-angle-up{
+    color: #fff;
+}
